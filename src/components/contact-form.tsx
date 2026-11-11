@@ -26,7 +26,7 @@ const FIELDS: Field[] = [
 ];
 
 const inputClass =
-  "w-full rounded-md border border-[#244b3a]/30 bg-[#f7f4ea] px-3 py-2 text-sm text-[#101d18] placeholder-[#244b3a]/50 focus:border-[#5f8c6d] focus:outline-none disabled:opacity-60 dark:border-[#244b3a] dark:bg-[#101d18] dark:text-[#f7f4ea]";
+  "w-full rounded-md border border-[#244b3a]/30 bg-[#f7f4ea] px-3 py-2 text-sm text-[#101d18] placeholder:text-[#244b3a]/50 focus:border-[#5f8c6d] focus:outline-none disabled:opacity-60 dark:border-[#244b3a] dark:bg-[#101d18] dark:text-[#f7f4ea] dark:placeholder:text-[#dfe8d9]/40";
 const labelClass =
   "mb-1 block text-xs font-medium uppercase text-[#244b3a] dark:text-[#dfe8d9]/70";
 

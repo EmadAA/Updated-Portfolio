@@ -340,12 +340,12 @@ export const PROJECTS: Project[] = [
     ],
     liveUrl: "https://victoriawindscreens.com.au/",
     screenshots: [
-      "/projects/GHL Websites/Victoria Windscreen Website/Home Page.png",
-      "/projects/GHL Websites/Victoria Windscreen Website/About Us Page.png",
-      "/projects/GHL Websites/Victoria Windscreen Website/Location Page.png",
-      "/projects/GHL Websites/Victoria Windscreen Website/Services Page.png",
-      "/projects/GHL Websites/Victoria Windscreen Website/Sub-Services Page.png",
-      "/projects/GHL Websites/Victoria Windscreen Website/Contact Page.png",
+      "/projects/GHL Websites/VictoriaWindscreenWebsite/home.png",
+      "/projects/GHL Websites/VictoriaWindscreenWebsite/about.png",
+      "/projects/GHL Websites/VictoriaWindscreenWebsite/location.png",
+      "/projects/GHL Websites/VictoriaWindscreenWebsite/services.png",
+      "/projects/GHL Websites/VictoriaWindscreenWebsite/sub-services.png",
+      "/projects/GHL Websites/VictoriaWindscreenWebsite/contact.png",
     ],
     features: [
       "Responsive layout built with the GoHighLevel page builder",
@@ -412,8 +412,8 @@ export const PROJECTS: Project[] = [
     tags: ["WordPress", "Elementor", "E-Learning"],
     liveUrl: "https://rapidedx.com",
     screenshots: [
-      "/projects/WordPress Websites/E-Learning Website(RapidEDX + UkEmployment)/rapidedx front.png",
-      "/projects/WordPress Websites/E-Learning Website(RapidEDX + UkEmployment)/rapidedx allcourse.png",
+      "/projects/WordPress Websites/E-Learning/rapidedx-front.png",
+      "/projects/WordPress Websites/E-Learning/rapidedx-allcourse.png",
     ],
     features: [
       "Course listing and detail pages built with Elementor",
@@ -434,8 +434,8 @@ export const PROJECTS: Project[] = [
     tags: ["WordPress", "Elementor", "E-Learning"],
     liveUrl: "https://ukemploymenttraining.co.uk",
     screenshots: [
-      "/projects/WordPress Websites/E-Learning Website(RapidEDX + UkEmployment)/ukemployment front.png",
-      "/projects/WordPress Websites/E-Learning Website(RapidEDX + UkEmployment)/ukemployment allcourse.png",
+      "/projects/WordPress Websites/E-Learning/ukemployment-front.png",
+      "/projects/WordPress Websites/E-Learning/ukemployment-allcourse.png",
     ],
     features: [
       "Course listing and detail pages built with Elementor",
@@ -455,9 +455,9 @@ export const PROJECTS: Project[] = [
     tags: ["WordPress", "Elementor", "Responsive Design"],
     liveUrl: "#",
     screenshots: [
-      "/projects/WordPress Websites/Kevaleri Website/kevaleri (1).png",
-      "/projects/WordPress Websites/Kevaleri Website/kevaleri (2).png",
-      "/projects/WordPress Websites/Kevaleri Website/kevaleri (3).png",
+      "/projects/WordPress Websites/Kevaleri/kevaleri(1).png",
+      "/projects/WordPress Websites/Kevaleri/kevaleri(2).png",
+      "/projects/WordPress Websites/Kevaleri/kevaleri(3).png",
     ],
     features: [
       "Responsive layout built with Elementor Page Builder",
@@ -507,8 +507,8 @@ export const PROJECTS: Project[] = [
     ],
     internal: true,
     screenshots: [
-      "/projects/Speed Optimization/speed.png",
-      "/projects/Speed Optimization/speed2.png",
+      "/projects/SpeedOptimization/speed.png",
+      "/projects/SpeedOptimization/speed2.png",
     ],
     features: [
       "Core Web Vitals improvements measured before and after optimization",

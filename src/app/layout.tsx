@@ -19,6 +19,9 @@ export const metadata: Metadata = {
   },
   description: DESCRIPTION,
   authors: [{ name: "Emad Uddin Adil" }],
+  verification: {
+    google: "PuG548mPxsTx_zCHDiO2_IMvRtn3wHqs-SNfOGtWnQU", // replace with your code from Search Console
+  },
   openGraph: {
     type: "website",
     url: SITE_URL,

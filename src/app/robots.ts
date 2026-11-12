@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-    const BASE = "https://emad-uddin-adil.vercel.app/";
+const BASE = "https://emad-uddin-adil.vercel.app".replace(/\/+$/, "");
 
 export default function robots(): MetadataRoute.Robots {
   return {

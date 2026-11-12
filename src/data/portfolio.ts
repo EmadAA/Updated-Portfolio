@@ -455,9 +455,10 @@ export const PROJECTS: Project[] = [
     tags: ["WordPress", "Elementor", "Responsive Design"],
     liveUrl: "#",
     screenshots: [
-      "/projects/WordPress Websites/Kevaleri/kevaleri1.png",
-      "/projects/WordPress Websites/Kevaleri/kevaleri2.png",
-      "/projects/WordPress Websites/Kevaleri/kevaleri3.png",
+      "/projects/WordPress Websites/Kevaleri/home.png",
+      "/projects/WordPress Websites/Kevaleri/faq.png",
+      "/projects/WordPress Websites/Kevaleri/service.png",
+      "/projects/WordPress Websites/Kevaleri/contact.png",
     ],
     features: [
       "Responsive layout built with Elementor Page Builder",

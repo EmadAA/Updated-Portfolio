@@ -340,12 +340,12 @@ export const PROJECTS: Project[] = [
     ],
     liveUrl: "https://victoriawindscreens.com.au/",
     screenshots: [
-      "/projects/GHL Websites/VictoriaWindscreenWebsite/home.png",
-      "/projects/GHL Websites/VictoriaWindscreenWebsite/about.png",
-      "/projects/GHL Websites/VictoriaWindscreenWebsite/location.png",
-      "/projects/GHL Websites/VictoriaWindscreenWebsite/services.png",
-      "/projects/GHL Websites/VictoriaWindscreenWebsite/sub-services.png",
-      "/projects/GHL Websites/VictoriaWindscreenWebsite/contact.png",
+      "/projects/GHL Websites/Victoria/home.png",
+      "/projects/GHL Websites/Victoria/about.png",
+      "/projects/GHL Websites/Victoria/location.png",
+      "/projects/GHL Websites/Victoria/services.png",
+      "/projects/GHL Websites/Victoria/sub-services.png",
+      "/projects/GHL Websites/Victoria/contact.png",
     ],
     features: [
       "Responsive layout built with the GoHighLevel page builder",
@@ -455,9 +455,9 @@ export const PROJECTS: Project[] = [
     tags: ["WordPress", "Elementor", "Responsive Design"],
     liveUrl: "#",
     screenshots: [
-      "/projects/WordPress Websites/Kevaleri/kevaleri(1).png",
-      "/projects/WordPress Websites/Kevaleri/kevaleri(2).png",
-      "/projects/WordPress Websites/Kevaleri/kevaleri(3).png",
+      "/projects/WordPress Websites/Kevaleri/kevaleri1.png",
+      "/projects/WordPress Websites/Kevaleri/kevaleri2.png",
+      "/projects/WordPress Websites/Kevaleri/kevaleri3.png",
     ],
     features: [
       "Responsive layout built with Elementor Page Builder",
